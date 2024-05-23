@@ -8,4 +8,6 @@ credentials = {
     "bucket_name": "your_bucket_name",
     "file_path": "your_file_path",
     "aws_s3_secret_key": "s3_raw_secret_key"
+    
 }
+String publicKeyPEM = key.replace("-----BEGIN PRIVATE KEY-----", "")

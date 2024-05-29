@@ -10,13 +10,9 @@ credentials = {
     "aws_s3_secret_key": "s3_raw_secret_key"
     
 }
-Private RSAprivatekey getprivatekey(String Key {
-    try {
-        String publicKeyPem = key.replace("-----BEGIN PRIVATE KEY-----", "")
+String publicKeyPem = key.replace("-----BEGIN PRIVATE KEY-----", "")
                 .replaceALL(System.lineseparator(),"")
                 .replaceALL("---------END PRIVATE KEY------", "")
-    }
-})
 Privatekey = key.replace("-----BEGIN PUBLIC KEY-----", "")
                   .replace("-----BEGIN PRIVATE KEY-----", "")
                   .replaceAll(System.lineSeparator(), "")

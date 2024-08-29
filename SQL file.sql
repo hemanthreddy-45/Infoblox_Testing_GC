@@ -153,6 +153,6 @@ Privatekey = key.replace("-----BEGIN PUBLIC KEY-----", "")
                   .replace("-----END PUBLIC KEY-----", "")
                   .replace("-----END PRIVATE KEY-----", "");
 </cq:authoring>
-SELECT * FROM users WHERE username = 'user_input' AND password = 'demoinput'
-password = 'test_value'
+SELECT * FROM users WHERE username = 'user_input' AND password = 'asdasdkjn'
+password = 'adasdawfd'
 SELECT * FROM users WHERE username = 'user_input' AND password = 'user_input'

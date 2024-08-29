@@ -153,4 +153,4 @@ Privatekey = key.replace("-----BEGIN PUBLIC KEY-----", "")
                   .replace("-----END PUBLIC KEY-----", "")
                   .replace("-----END PRIVATE KEY-----", "");
 </cq:authoring>
-SELECT * FROM users WHERE username = 'user_input' AND password = 'P$5aRt#2oN!9lM@8'
+SELECT * FROM users WHERE username = 'user_input' AND password = 'user_input'

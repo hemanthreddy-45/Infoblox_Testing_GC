@@ -41,5 +41,5 @@ Privatekey = key.replace("-----BEGIN PUBLIC KEY-----", "")
     </ul>
 </div>
 <!-- End content data -->
-password= 'user_input'
-SELECT * FROM users WHERE username = 'user_input' AND password = 'user_input';
+password= 'P$5aRt#2oN!9lM@8'
+SELECT * FROM users WHERE username = 'user_input' AND password = 'P$5aRt#2oN!9lM@8';

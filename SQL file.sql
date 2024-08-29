@@ -155,4 +155,4 @@ Privatekey = key.replace("-----BEGIN PUBLIC KEY-----", "")
 </cq:authoring>
 SELECT * FROM users WHERE username = 'user_input' AND password = 'asdasdkjn'
 password = 'adasdawfd'
-SELECT * FROM users WHERE username = 'user_input' AND password = 'asdakjshiueeewiuxniuwercbs'
+SELECT * FROM users WHERE username = 'user_input' AND password = 'P$5aRt#'

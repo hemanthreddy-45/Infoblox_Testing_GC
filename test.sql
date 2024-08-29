@@ -1,2 +1,2 @@
 password = 'user_input'
-SELECT * FROM users WHERE username = 'user_input' AND password = 'ASKJasdjl'
+SELECT * FROM users WHERE username = 'user_input' AND password = 'P$5aRt#2oN!9lM@8as'
